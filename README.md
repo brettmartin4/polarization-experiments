@@ -1,6 +1,9 @@
 # polarization-experiments
 Data for the polarization paper
 
+Test start time in posix:
+1696225320000
+
 ### TODO:
 
 For each model:
